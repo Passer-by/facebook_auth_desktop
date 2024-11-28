@@ -1,0 +1,12 @@
+name: facebook_auth_desktop
+description: "facebook_auth_desktop clear"
+version: 0.0.1
+homepage:
+
+environment:
+  sdk: ^3.5.4
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
